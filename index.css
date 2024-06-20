@@ -9,7 +9,9 @@ body {
   overflow-x: hidden;
 }
 
-
+button{
+    cursor: pointer;
+}
 
 @font-face {
   font-family: 'Noto Sans KR';
