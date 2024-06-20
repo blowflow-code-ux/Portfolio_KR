@@ -104,7 +104,7 @@ a {
 }
 
 .about_me_bg {
-  background: url("./images/cover/CoverImage.png") center center / cover
+  background: url("cover/CoverImage.png") center center / cover
     no-repeat;
   z-index: -1;
   width: 100%;
@@ -302,7 +302,7 @@ margin-bottom: 10%;
 }
 
 .exmotion_bg {
-  background: url("./images/1_exmotion/exmotion_1.png") center center / cover
+  background: url("1_exmotion/exmotion_1.png") center center / cover
     no-repeat;
   z-index: -1;
   width: 100%;
@@ -493,7 +493,7 @@ width:23vw;
 }
 
 .sheer_bg {
-  background: url("./images/2_sheer/sheer_1.png") center center / cover
+  background: url("2_sheer/sheer_1.png") center center / cover
     no-repeat;
   padding-top: calc(790 / 744 * 80%);
   width: 100%;
@@ -652,7 +652,7 @@ font-weight: 600;
 }
 
 .sheer_img_10 {
-  background: url("./images/2_sheer/sheer_10.jpg") center center / cover
+  background: url("2_sheer/sheer_10.jpg") center center / cover
     no-repeat;
   padding-top: calc(691 / 1308 * 100%);
 }
@@ -682,7 +682,7 @@ font-weight: 600;
 
 .sheer_img_11 {
   margin-top:7%;
-  background: url("./images/2_sheer/sheer_11.jpg") center center / cover
+  background: url("2_sheer/sheer_11.jpg") center center / cover
     no-repeat;
   padding-top: calc(427 / 1045 * 100%);
 }
@@ -755,7 +755,7 @@ font-weight: 600;
   margin-top: 13%;
 }
 .nomadland {
-  background: url("./images/3_nomadland/nomadland_1-1.png") center center /
+  background: url("3_nomadland/nomadland_1-1.png") center center /
     cover no-repeat;
   padding-top: calc(2404 / 1282 * 100%);
   margin-top: -12.75%;
@@ -815,7 +815,7 @@ font-weight: 600;
 }
 
 .anagreen {
-  background: url("./images/4_anagreen/anagreen_5.png") center center / cover
+  background: url("4_anagreen/anagreen_5.png") center center / cover
     no-repeat;
   padding-top: calc(734 / 1279 * 100%);
   width: 100%;
@@ -832,7 +832,7 @@ font-weight: 600;
   margin-top: -2%;
   height: 0;
   width: 100%;
-  background-image: url("./images/4_anagreen/anagreen_performance_gif.gif");
+  background-image: url("4_anagreen/anagreen_performance_gif.gif");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -899,7 +899,7 @@ font-weight: 600;
 }
 
 .erotic {
-  background: url("./images/5_UsesOftheErotic/UsesOftheErotic_1.png") center /
+  background: url("5_UsesOftheErotic/UsesOftheErotic_1.png") center /
     cover no-repeat;
   padding-top: calc(1934 / 1006 * 100%);
   margin-top: -8%;
@@ -924,7 +924,7 @@ font-weight: 600;
 }
 
 .urbanism {
-  background: url("./images/6_Urbanism/urbanism_portfolio\ _pic1.png") center / cover no-repeat;
+  background: url("6_Urbanism/urbanism_portfolio\ _pic1.png") center / cover no-repeat;
   padding-top: calc(4263 / 1291 * 100%);
   margin-top: -15%;
   width: 100%; /* Ensure the div takes up full width */
@@ -948,7 +948,7 @@ font-weight: 600;
 }
 
 .city {
-  background: url("./images/7_CityinTransition/cityintransition_1.png") center /
+  background: url("7_CityinTransition/cityintransition_1.png") center /
     cover no-repeat;
   padding-top: calc(960 / 1286 * 100%);
   margin-top: -30%;
@@ -973,7 +973,7 @@ font-weight: 600;
 }
 
 .city_gif {
-  background: url("./images/7_CityinTransition/KakaoTalk_Photo_2024-06-11-02-53-18.gif")
+  background: url("7_CityinTransition/KakaoTalk_Photo_2024-06-11-02-53-18.gif")
     center / cover no-repeat;
   padding-top: calc(987 / 1835 * 100%);
   height: 0;
@@ -1016,7 +1016,7 @@ font-weight: 600;
 }
 
 .karen {
-  background: url("./images/8_karenBrodine/karenBrodine_2.png") center / cover
+  background: url("8_karenBrodine/karenBrodine_2.png") center / cover
     no-repeat;
   padding-top: calc(638 / 1277 * 100%);
   position: absolute;
@@ -1039,14 +1039,14 @@ font-weight: 600;
   width: 100%;
   height: auto;
   position: relative;
-  background: url("./images/8_karenBrodine/karenBrodine_100.jpg") center / cover
+  background: url("8_karenBrodine/karenBrodine_100.jpg") center / cover
     no-repeat;
   padding-top: calc(2415 / 1002 * 100%);
   z-index: -1;
   height: 0;
 }
 .karen_gradient {
-  background: url("./images/11_shadowCV/ShadowCV_4.png") center / cover
+  background: url("11_shadowCV/ShadowCV_4.png") center / cover
     no-repeat;
   height: 0;
   padding-top: calc(574 / 1297 * 100%);
@@ -1085,12 +1085,12 @@ color:white;
 }
 
 .hellbound_bg {
-  background: url("./images/9_hellbound/hellbound_profile.jpeg") center / cover no-repeat;
+  background: url("9_hellbound/hellbound_profile.jpeg") center / cover no-repeat;
   padding-top: calc(2291 / 2691 * 100%);
 }
 
 .hellbound_gradient {
-  background: url("./images/8_karenBrodine/karenBrodine_2.png") center / cover
+  background: url("8_karenBrodine/karenBrodine_2.png") center / cover
     no-repeat;
   height: 0;
   padding-top: calc(638 / 1277 * 100%);
@@ -1148,7 +1148,7 @@ color:white;
       rgba(255, 255, 255, 1) 0% 20%,
       rgba(255, 255, 255, 0) 60% 100%
     ),
-    url("./images/11_shadowCV/ShadowCV_1.png");
+    url("11_shadowCV/ShadowCV_1.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
