@@ -985,18 +985,25 @@ font-weight: 600;
   position: relative;
 }
 
+.city_gif_container{
+  position:relative;
+}
+
 .toCityInTransitionWeb{
   width:10vw;
   height:5vh;
-  background-color: rgba(255, 255, 255, 0.315);
+  background-color: rgba(255, 255, 255, 0.199);
   color:rgb(0, 0, 0);
   font-size: 1.2vh;
   font-weight: 800;
   border: none; /* Remove default button border */
   outline: none; /* Remove outline on focus/click */
   cursor: pointer; 
-  margin-top: 11vh;
   letter-spacing: 2%;
+  position:absolute;
+  top:26%;
+  left:50%;
+  margin-left:-5vw;
 }
 
 .hellbound_video {
